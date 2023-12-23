@@ -1,5 +1,5 @@
 # Thala for a Reason !!!!
-Project url: https://6585e4c558d63a067b20baae--jolly-torrone-29ab23.netlify.app/
+Project URL: https://6585e4c558d63a067b20baae--jolly-torrone-29ab23.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
