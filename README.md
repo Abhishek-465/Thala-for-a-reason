@@ -1,5 +1,7 @@
 # Thala for a Reason !!!!
+<br>
 Project URL: https://6585e4c558d63a067b20baae--jolly-torrone-29ab23.netlify.app/
+<br>
 This project is based on the latest meme "Thala for a reason".
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
